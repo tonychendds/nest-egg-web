@@ -1,4 +1,4 @@
-const CACHE = "nest-egg-shell-v2";
+const CACHE = "nest-egg-shell-v3";
 
 function scopeUrl(path) {
   const scope = new URL(self.registration.scope);
